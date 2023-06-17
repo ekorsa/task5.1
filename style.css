@@ -7,8 +7,6 @@
 }
 
 .inner-header{
-    /*position: fixed;
-    display: block; */
     overflow: hidden;
     background-color: #101010;
 }
@@ -55,6 +53,22 @@
     color: #101010;
 }
 
+.tbl{
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+
+tbody th {
+    text-align: left;
+    border: 1px solid black;
+}
+
+tbody td {
+    text-align: left;
+    border: 1px solid black;
+}
+ 
 #leftimg{
-    float:left
+    float:left;
 }
